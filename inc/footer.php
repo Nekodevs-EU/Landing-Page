@@ -35,23 +35,23 @@
 
         <!-- nav - start -->
         <div>
-          <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Products</div>
+          <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Projects</div>
 
           <nav class="flex flex-col gap-4">
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Overview</a>
+              <a href="#" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Overview</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Solutions</a>
+              <a href="#" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Solutions</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Pricing</a>
+              <a href="#" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Pricing</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Customers</a>
+              <a href="#" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Customers</a>
             </div>
           </nav>
         </div>
@@ -63,15 +63,15 @@
 
           <nav class="flex flex-col gap-4">
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Our story</a>
+              <a href="/story" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Our story</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Our goal</a>
+              <a href="/goals" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Our goal</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Donate</a>
+              <a href="/donate" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Donate</a>
             </div>
 
           </nav>
@@ -84,19 +84,19 @@
 
           <nav class="flex flex-col gap-4">
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Contact</a>
+              <a href="mailto:contact@nekodevs.eu" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Contact</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Documentation</a>
+              <a href="https://docs.nekodevs.eu" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Documentation</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Community</a>
+              <a href="#" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Community</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">FAQ</a>
+              <a href="/faq" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">FAQ</a>
             </div>
           </nav>
         </div>
@@ -108,21 +108,21 @@
 
           <nav class="flex flex-col gap-4">
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Terms of Service</a>
+              <a href="/tos" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Terms of Service</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Privacy Policy</a>
+              <a href="/privacy" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Privacy Policy</a>
             </div>
 
             <div>
-              <a href="#" class="text-gray-400 transition duration-100 hover:text-indigo-500 active:text-indigo-600">Cookie settings</a>
+              <a href="/cookies" class="text-gray-400 transition duration-100 hover:text-purple-500 active:text-purple-600">Cookie Policy</a>
             </div>
           </nav>
         </div>
-        <!-- nav - end -->
+        <!-- nav - end -->  
       </div>
 
-      <div class="border-t border-gray-800 py-8 text-center text-sm text-gray-400">© 2021 - Present NekoDevs. All rights reserved.</div>
+      <div class="border-t border-gray-800 py-8 text-center text-sm text-gray-400">© 2024 - Present NekoDevs. All rights reserved.</div>
     </footer>
   </div>
