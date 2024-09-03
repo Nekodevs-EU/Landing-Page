@@ -27,15 +27,36 @@
     </div>
     <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
       <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-        <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Oops! Cat-astrophe Alert!</h1>
-        <p class="mt-6 text-lg leading-8 text-gray-300">It seems like you've wandered off the beaten path and ended up in a mysterious corner of the internet. Our feline friends have taken a cat nap, and this page is nowhere to be found!</p>
-        <div class="mt-10 flex items-center gap-x-6">
-          <a href="/" class="rounded-md bg-purple-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-purple-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Go back home</a>
-          <a href="javascript:void(0);" onclick="window.history.back();" class="text-sm font-semibold leading-6 text-white">Go back one page <span aria-hidden="true">←</span></a>
-        </div>
+        <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">News</h1>
+        <p class="mt-6 text-lg leading-8 text-gray-300">Look at the freshest news from NekoDevs</p>
       </div>
     </div>
   </div>
+
+    <div class="container mx-auto px-6 py-10">
+        <h2 class="text-2xl font-bold text-white mb-6">Project List</h2>
+        <div class="bg-gray-800 rounded-lg shadow-lg overflow-hidden">
+            <table class="w-full border border-gray-700">
+                <thead>
+                    <tr>
+                        <th class="py-3 px-4 bg-gray-900 text-left text-xs font-semibold text-gray-300 uppercase tracking-wider">Name</th>
+                        <th class="py-3 px-4 bg-gray-900 text-left text-xs font-semibold text-gray-300 uppercase tracking-wider">Description</th>
+                        <th class="py-3 px-4 bg-gray-900 text-left text-xs font-semibold text-gray-300 uppercase tracking-wider">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="py-3 px-4 border-b border-gray-700 text-gray-300">Welcome to NekoDevs!</td>
+                        <td class="py-3 px-4 border-b border-gray-700 text-gray-300">Haii haii, and welcome to our new developer studio...</td>
+                        <td class="py-3 px-4 border-b border-gray-700">
+                            <a href="https://nekodevs.eu" class="text-gray-300 hover:text-gray-100">View Article</a>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
 
   <?php include 'inc/footer.php';?>
   <?php include 'inc/scripts-bottom.php';?>
