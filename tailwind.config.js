@@ -4,7 +4,10 @@ module.exports = {
   content: [
     './index.php', 
     './projects.php',
+    './privacy.php',
     './news.php',
+    './cookies.php',
+    './faq.php',
     './404.php',// Adjust the paths according to your project structure
     './src/**/*.{html,js,php}',
     './inc/**/*.{html,js,php}', // Include all relevant file types and paths

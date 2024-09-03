@@ -1,3 +1,4 @@
+<?php include 'inc/decoration.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,7 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NekoDevs</title>
   <link href="/src/styles/output.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css"> 
+  <?php include 'inc/meta.php';?>
 </head>
 
 <body class="bg-gray-900">
