@@ -2,8 +2,12 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 module.exports = {
   content: [
-    './index.php', // Adjust the paths according to your project structure
-    './src/**/*.{html,js,php}', // Include all relevant file types and paths
+    './index.php', 
+    './projects.php',
+    './news.php',
+    './404.php',// Adjust the paths according to your project structure
+    './src/**/*.{html,js,php}',
+    './inc/**/*.{html,js,php}', // Include all relevant file types and paths
   ],
   darkMode: true, // or 'media' or 'class'
   theme: {
