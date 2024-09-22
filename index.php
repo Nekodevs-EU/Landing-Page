@@ -77,7 +77,7 @@
       <div class="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2">
         <div class="p-6 bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg">
           <div class="flex items-center justify-center h-24 w-24 rounded-full bg-purple-600">
-            <img src="/src/assets/img/french-femboi.png" alt="French Femboi" class="h-24 w-24 p-0 rounded-full">
+            <img src="/src/assets/img/french-femboi.gif" alt="French Femboi" class="h-24 w-24 p-0 rounded-full">
           </div>
           <h3 class="mt-4 text-lg font-medium text-white dark:text-gray-900">French Femboi</h3>
           <p class="mt-2 text-base text-gray-300 dark:text-gray-500">Developer</p>
