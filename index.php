@@ -90,7 +90,7 @@
           </div>
           <h3 class="mt-4 text-lg font-medium text-white dark:text-gray-900">elpoep</h3>
           <p class="mt-2 text-base text-gray-300 dark:text-gray-500">Developer</p>
-          <p class="mt-2 text-base text-gray-500 dark:text-gray-500">-</p>
+          <p class="mt-2 text-base text-gray-500 dark:text-gray-500">c, game maker language, css, html, some javascript</p>
           <a href="https://github.com/elpoeprod" class="mt-4 text-base text-purple-500 hover:text-purple-400">View GitHub profile</a>
         </div>
       </div>

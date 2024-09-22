@@ -5,11 +5,7 @@
           <!-- logo - start -->
           <div class="mb-4 lg:-mt-2">
             <a href="/" class="inline-flex items-center gap-2 text-xl font-bold text-gray-100 md:text-2xl" aria-label="logo">
-              <svg width="95" height="94" viewBox="0 0 95 94" class="h-auto w-5 text-purple-500" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                <path d="M96 0V47L48 94H0V47L48 0H96Z" />
-              </svg>
-
-              NekoDevs
+              <img src="logo_long.png" alt="NekoDevs" style="height: 50px;">
             </a>
           </div>
           <!-- logo - end -->
