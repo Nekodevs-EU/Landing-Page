@@ -51,7 +51,7 @@
                         <td class="py-3 px-4 border-b border-gray-700 text-gray-300">Welcome to NekoDevs!</td>
                         <td class="py-3 px-4 border-b border-gray-700 text-gray-300">Haii haii, and welcome to our new developer studio...</td>
                         <td class="py-3 px-4 border-b border-gray-700">
-                            <a href="https://nekodevs.eu" class="text-gray-300 hover:text-gray-100">View Article</a>
+                            <a href="https://github.com/Nekodevs-EU/.github/blob/main/news/2024/0309.md" class="text-gray-300 hover:text-gray-100">View Article</a>
                         </td>
                     </tr>
 
