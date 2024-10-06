@@ -87,9 +87,6 @@
           <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
             <feGaussianBlur in="SourceGraphic" stdDeviation="40" />
           </filter>
-          <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-            <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" />
-          </pattern>
         </defs>
         <rect width="100%" height="100%" fill="url(#grid)" />
         <circle cx="30%" cy="30%" r="20%" fill="url(#grad1)" filter="url(#blur)" opacity="0.5" />
